@@ -1,0 +1,7 @@
+java util random
+
+.....nextInt(6);
+	this generates 0...5
+	add one to this number to get 1...6
+nextGaussian()
+	number (double) range 0...1.0
